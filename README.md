@@ -31,7 +31,7 @@ and building an **interactive Power BI dashboard** for insights.
 - Removed null values, duplicates, standardized column names.  
 - Converted date columns to datetime format.  
 
-📂 Files → [notebooks/data_cleaning.ipynb]()
+📂 Files → [notebooks/data_cleaning.ipynb](https://github.com/varshithaa1605/Coffee-sales-analysis/blob/main/notebooks/Coffee_salesss.ipynb)
 
 ---
 
@@ -40,7 +40,7 @@ and building an **interactive Power BI dashboard** for insights.
 - Top products  
 - Regional performance  
 
-📂 Files → [notebooks/eda.ipynb]()
+📂 Files → [notebooks/eda.ipynb](https://github.com/varshithaa1605/Coffee-sales-analysis/blob/main/notebooks/Coffee_salesss.ipynb)
 
 ---
 
