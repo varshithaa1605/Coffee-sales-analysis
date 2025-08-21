@@ -47,5 +47,5 @@ and building an **interactive Power BI dashboard** for insights.
 ### 4️⃣ Dashboard (Power BI)
 - Interactive dashboard created in Power BI.  
 
-📂 Files → [powerbi/coffee_dashboard.pbix](powerbi/coffee_dashboard.pbix)  
+📂 Files → [powerbi/coffee_dashboard.pbix](https://github.com/varshithaa1605/Coffee-sales-analysis/blob/main/powerbi/Coffeeee.pbix)  
 📷 Preview → ![Coffee Dashboard]()
