@@ -22,7 +22,7 @@ and building an **interactive Power BI dashboard** for insights.
 
 ### 1️⃣ Data Collection
 - Dataset sourced from Kaggle → [Coffee Sales Dataset](https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis).  
-- Raw dataset uploaded here → [data/coffee_sales.csv]()  
+- Raw dataset uploaded here → [data/coffee_sales.csv](https://github.com/varshithaa1605/Coffee-sales-analysis/blob/main/data/raw/Project.csv)  
 - Cleaned dataset uploaded here → [data/coffee_sales_cleaned.csv]()
 
 ---
